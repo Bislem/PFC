@@ -1,0 +1,223 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[french]{babel}
+\usepackage{enumitem}
+\usepackage[utf8]{inputenc}% Pour utiliser les lettres accentuées
+\usepackage{lscape}
+\setlength{\voffset}{-0.5in}
+\setlength{\footskip}{80pt}
+\usepackage[T1]{fontenc}
+\usepackage{color}
+\usepackage{url}
+\usepackage{natbib}
+\usepackage{url}
+\def\UrlBreaks{\do\/\do-}
+\usepackage{breakurl}
+\usepackage[breaklinks]{hyperref}
+\bibliographystyle{unsrt}
+\usepackage{graphicx}% utilisé les photos
+\usepackage{xspace} %utilisé les espaces
+%\usepackage{multirow}
+%\usepackage{fancyhdr}
+\usepackage[  bottom=2cm,left=2cm, right=2cm,]{geometry}
+%\usepackage{soul}
+\usepackage{array}
+\newcommand{\cRM}[1]{\Roman {chapter}} % Capital
+\newcommand{\cRm}[1]{\textsc{\romannumeral #1}} % Petit majuscule
+\newcommand{\crm}[1]{\romannumeral #1}
+% Siècle %
+\newcommand{\siecle}[1]{\cRM{#1}\textsuperscript{e}~siècle}
+\usepackage[nottoc]{tocbibind} 
+
+
+\usepackage{fancyhdr}
+\usepackage{amsthm}
+\newtheorem{MaDefinition}{Définition}[section]
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4} 
+\usepackage{a4wide}
+\usepackage{algorithm,algorithmic}
+\usepackage{eurosym}
+\usepackage{wrapfig}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{enumitem}
+\usepackage{datatool}
+\usepackage[normalem]{ulem}
+\useunder{\uline}{\ul}{}
+
+% Hauts et pieds de page
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+%\renewcommand{\headrulewidth}{1pt}
+%\renewcommand{\footrulewidth}{1pt}
+
+
+
+%\usepackage{fancyhdr} %pour les entêtes
+%\pagestyle{fancy}
+%*******************************************************************************************
+\usepackage{array,multirow,makecell}
+\setcellgapes{1pt}
+\makegapedcells
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash }b{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash }b{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash }b{#1}}
+
+
+
+\pagestyle{fancy}
+%definie l'entete se chaque page
+\renewcommand\headrulewidth{1pt}
+\fancyhf{}
+\fancyhead[R]{\slshape \textbf \leftmark}
+\fancyfoot[C]{\thepage}
+
+%definition de l'entete du chaq chapitre
+\makeatletter
+\def\thickhrulefill{\leavevmode \leaders \hrule height 1ex \hfill \kern \z@}
+\def\@makechapterhead#1{%
+  %\vspace*{50\p@}%
+  \vspace*{10\p@}%
+  {\parindent \z@ \centering \reset@font
+
+        \thickhrulefill\quad
+        %\scshape 
+        \@chapapp{} \thechapter
+        \quad \thickhrulefill
+        \par\nobreak
+        \vspace*{10\p@}%
+        \interlinepenalty\@M
+        \hrule
+        \vspace*{10\p@}%
+        \Huge \bfseries #1\par\nobreak
+        \par
+        \vspace*{10\p@}%
+        \hrule
+    %\vskip 40\p@
+    \vskip 100\p@
+  }}
+
+\renewcommand{\baselinestretch}{1.2}
+%-----------------Début de la Page de garde---------------------------------
+\renewcommand{\maketitle}{
+\thispagestyle{empty}
+\begin{titlepage}
+\begin{center}
+{\bf  République Algérienne Démocratique et Populaire
+%\vspace{0.1cm}
+\\ Ministère de l'Enseignement Supérieur et de la
+Recherche Scientifique} \vspace{0.25cm}\\
+ {\bf {\large Université A/Mira de Béjaïa}}\\
+{\bf Faculté des Sciences Exactes} \\ {\bf Département d'Informatique}\\
+
+%-------------------Pour insérer un logo
+\begin{figure}[h!]
+  \begin{center}
+  % \usepackage{graphicx}
+\includegraphics[width=4cm,height=2cm]{Figures/logo.jpg}\\
+   \end{center}
+\end{figure}
+%-------------------------------------
+\begin{center}
+\vspace*{-1cm}
+  \bf{MÉMOIRE DE MASTER } \\
+ 
+  \bf{Option : Génie Logiciel } \\
+\end{center}
+\vspace{0.5cm}
+{\LARGE {\bf Thème}} \\
+\noindent\rule{\textwidth}{0.7mm}
+\LARGE{\textbf{ Conception et réalisation d’une plateforme de gestion du marché du BTP en Algérie basée sur l’architecture REST
+ } }
+\noindent\rule{\textwidth}{0.7mm}
+\end{center}
+\begin{center}
+\textbf{Réalisé par:}\\
+\vspace{0.2cm}
+%\textbf{ \hspace{0.1cm}$\textbf{M}$ \textsl{IDRISSOU}  Hamza}\\
+
+\textbf{ \hspace{0.1cm}$\textbf{M.}$ \textsl{CHETTOUT}  Abdeslam}\\
+\textbf{ \hspace{0.1cm}$\textbf{M.}$ \textsl{HAMMOUCHE}  Mohand Mouloud}\\
+
+\end{center}
+
+\vspace{0.1cm}
+\textbf{Devant le jury composé de :}  \\
+\begin{tabbing}
+ \textbf{Examinateur 1}  \hspace{1.2cm}\= \textbf{M. -- --} \hspace{2.4cm}\=\textbf{} \\
+ 
+ \textbf{Examinateur 2}    \> \textbf{M. --  --} \> \\ %\textbf{M.C.A}  \\
+ \textbf{Encadrant}     \> \textbf{M. AKILAL Karim}  \> %\textbf{M.C.A}         \\
+ \end{tabbing}
+\newline
+\newline
+
+\newline
+\begin{center}
+\textbf{2021/2022}
+\end{center}
+\end{titlepage} 
+
+}
+%-----------------Fin de la Page de garde-----------------------------------------
+
+%-----------------Début du document----------------------------------------------
+\begin{document}
+%-----------------Page de garde -----------------------------------------------
+\maketitle
+%--------------------------Abstract
+\include{abstract}
+%--------------------------les remerciements
+\include{Remerciements}
+\include{Dedicaces}
+
+%---------------------------Les dédicaces
+%\include{Remerciementss}
+\include{Dedicacess}
+
+\pagenumbering{roman}
+\setcounter{page}{1}
+%------------------------  Pour l'entête
+%\lhead{}
+%--------------------------Tables des matières
+\tableofcontents
+\addtocontents{toc}{\protect\pagenumbering{roman}}  % pour la table des matières
+\addcontentsline{toc}{chapter}{Table des matières}
+%--------------------------liste des figures
+
+\renewcommand\listfigurename{Liste des figures}
+\listoffigures 
+%--------------------------liste des tableaux
+\listoftables
+%--------------------------liste des algorithmes
+%\newpage\addcontentsline{toc}{chapter}{Liste des algorithmes}
+%\include{ListeDesAlgorithmes}
+%--------------------------liste des abreviations
+\newpage\addcontentsline{toc}{chapter}{Liste des abréviations}
+\include{ListeDesAbreviations}
+%--------------------------liste des glossaire
+%\include{glossaire}
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+%--------------------------Introductions générale
+\addcontentsline{toc}{chapter}{Introduction générale}
+\include{IntroductionGenerale}
+
+%--------------------------Différents chapitres
+\include{chapitre1}
+\include{chapitre2}
+\include{chapitre3}
+\include{chapitre4}
+
+%--------------------------Conclusion générale
+\addcontentsline{toc}{chapter}{Conclusion générale}
+\include{ConclusionGenrale}
+
+
+%--------------------------Références bibliographiques
+\bibliography{refs}       
+\bibliographystyle{plain} 
+
+\end{document}
