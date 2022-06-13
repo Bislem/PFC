@@ -1,8 +1,0 @@
-PWD e:/Documents/Prog/PFC
-INPUT c:/texlive/2022/texmf.cnf
-INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
-INPUT c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT e:/Documents/Prog/PFC/chapitre1.tex
-OUTPUT chapitre1.log
-INPUT c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
