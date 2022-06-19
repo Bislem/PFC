@@ -13,19 +13,14 @@
 \contentsline {subsection}{\numberline {1.3.2}Logiciel }{4}{subsection.1.3.2}%
 \contentsline {subsection}{\numberline {1.3.3}Télécommunications }{4}{subsection.1.3.3}%
 \contentsline {subsection}{\numberline {1.3.4}Données }{4}{subsection.1.3.4}%
-\contentsline {subsection}{\numberline {1.3.5}Logiciel }{4}{subsection.1.3.5}%
-\contentsline {subsection}{\numberline {1.3.6}Télécommunications }{4}{subsection.1.3.6}%
-\contentsline {subsection}{\numberline {1.3.7}Données }{4}{subsection.1.3.7}%
-\contentsline {subsection}{\numberline {1.3.8}Ressources humaines }{5}{subsection.1.3.8}%
-\contentsline {section}{\numberline {1.4}Fonctions et fonctionnement des systèmes d’informations }{5}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Fonctions et fonctionnement des systèmes d’informations }{5}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Collecter }{5}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Stocker }{5}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Traiter }{5}{subsection.1.5.3}%
-\contentsline {subsection}{\numberline {1.5.4}Diffuser l'information }{6}{subsection.1.5.4}%
-\contentsline {section}{\numberline {1.6}Type de système d'information }{6}{section.1.6}%
-\contentsline {section}{\numberline {1.7}Conclusion }{6}{section.1.7}%
-\contentsline {subsection}{\numberline {1.7.1}Diffuser l'information }{6}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.3.5}Ressources humaines }{4}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}Fonctions et fonctionnement des systèmes d’informations }{4}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Collecter }{5}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Stocker }{5}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Traiter }{5}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Diffuser l'information }{5}{subsection.1.4.4}%
+\contentsline {section}{\numberline {1.5}Type de système d'information }{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Conclusion }{6}{section.1.6}%
 \contentsline {chapter}{\numberline {2}Généralité sur le développement web }{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction }{7}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Réseaux informatique}{7}{section.2.2}%
@@ -35,43 +30,43 @@
 \contentsline {subsection}{\numberline {2.2.4}Architecture RestAPI }{8}{subsection.2.2.4}%
 \contentsline {section}{\numberline {2.3}Développement web }{9}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Application web }{9}{subsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.1.1}Back-end }{9}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.1}Back-end }{10}{subsubsection.2.3.1.1}%
 \contentsline {subsubsection}{\numberline {2.3.1.2}Front-end }{10}{subsubsection.2.3.1.2}%
-\contentsline {chapter}{\numberline {3}Conception}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{11}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Spécification des besoin }{11}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Besoins fonctionnels et non fonctionnels }{11}{subsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.1}Besoins fonctionnels }{11}{subsubsection.3.2.1.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.2}Besoins non fonctionnels }{12}{subsubsection.3.2.1.2}%
-\contentsline {subsection}{\numberline {3.2.2}L’approche UP (Unified Process) }{12}{subsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.1}Processus unifié }{12}{subsubsection.3.2.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2.2}Le processus 2TUP }{12}{subsubsection.3.2.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.3}Le langage UML }{12}{subsubsection.3.2.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.2.4}Définition d’un modèle }{13}{subsubsection.3.2.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.2.5}Les différents types diagrammes d’UML}{13}{subsubsection.3.2.2.5}%
-\contentsline {section}{\numberline {3.3}Identification des acteurs }{14}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Les Diagrammes des cas d'utilisation }{14}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Diagramme global des cas d'utilisations }{15}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Les différents cas d'utilisation }{15}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Le cas d'utilisation Authentification }{17}{subsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.3.1}Diagramme de cas d’utilisation Authentification}{17}{subsubsection.3.4.3.1}%
-\contentsline {subsection}{\numberline {3.4.4}Le cas d'utilisation Inscription}{18}{subsection.3.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.4.1}Diagramme de cas d’utilisation Inscription }{18}{subsubsection.3.4.4.1}%
-\contentsline {subsection}{\numberline {3.4.5}Le cas d'utilisation Déconnexion }{19}{subsection.3.4.5}%
-\contentsline {subsubsection}{\numberline {3.4.5.1}Diagramme du cas d'utilisation Déconnexion}{19}{subsubsection.3.4.5.1}%
-\contentsline {subsection}{\numberline {3.4.6}Le cas d'utilisation Gestion de profil }{20}{subsection.3.4.6}%
-\contentsline {subsubsection}{\numberline {3.4.6.1}Diagramme de cas d’utilisation Gestion de profil}{21}{subsubsection.3.4.6.1}%
-\contentsline {subsection}{\numberline {3.4.7}Le cas d'utilisation gestion de produit }{22}{subsection.3.4.7}%
-\contentsline {subsubsection}{\numberline {3.4.7.1}Diagramme de cas d’utilisation Gestion de produit et service}{23}{subsubsection.3.4.7.1}%
-\contentsline {subsection}{\numberline {3.4.8}Le cas d'utilisation donner avis }{23}{subsection.3.4.8}%
-\contentsline {subsubsection}{\numberline {3.4.8.1}Diagramme de cas d’utilisation donner avis}{24}{subsubsection.3.4.8.1}%
-\contentsline {subsection}{\numberline {3.4.9}Le cas d'utilisation gestion de catégorie et sous-catégorie }{24}{subsection.3.4.9}%
-\contentsline {subsubsection}{\numberline {3.4.9.1}Diagramme de cas d’utilisation gestion de catégorie et sous-catégorie }{24}{subsubsection.3.4.9.1}%
-\contentsline {section}{\numberline {3.5}Diagramme de séquence }{25}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Diagramme de séquence d'Authentification }{25}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Diagramme de séquence modification de mot de passe }{26}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Diagramme de séquence Ajout de produit/service }{27}{subsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.5.4}Diagramme de séquence donner avis }{28}{subsection.3.5.4}%
-\contentsline {chapter}{\numberline {4}Réalisation }{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{29}{section.4.1}%
-\contentsline {chapter}{Conclusion générale}{30}{section.4.1}%
+\contentsline {chapter}{\numberline {3}Conception}{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{12}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Spécification des besoin }{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Besoins fonctionnels et non fonctionnels }{12}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Besoins fonctionnels }{12}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Besoins non fonctionnels }{13}{subsubsection.3.2.1.2}%
+\contentsline {subsection}{\numberline {3.2.2}L’approche UP (Unified Process) }{13}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Processus unifié }{13}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Le processus 2TUP }{13}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}Le langage UML }{13}{subsubsection.3.2.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.2.4}Définition d’un modèle }{14}{subsubsection.3.2.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.2.5}Les différents types diagrammes d’UML}{14}{subsubsection.3.2.2.5}%
+\contentsline {section}{\numberline {3.3}Identification des acteurs }{15}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Les Diagrammes des cas d'utilisation }{15}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Diagramme global des cas d'utilisations }{16}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Les différents cas d'utilisation }{16}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Le cas d'utilisation Authentification }{18}{subsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.1}Diagramme de cas d’utilisation Authentification}{18}{subsubsection.3.4.3.1}%
+\contentsline {subsection}{\numberline {3.4.4}Le cas d'utilisation Inscription}{19}{subsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.1}Diagramme de cas d’utilisation Inscription }{19}{subsubsection.3.4.4.1}%
+\contentsline {subsection}{\numberline {3.4.5}Le cas d'utilisation Déconnexion }{20}{subsection.3.4.5}%
+\contentsline {subsubsection}{\numberline {3.4.5.1}Diagramme du cas d'utilisation Déconnexion}{20}{subsubsection.3.4.5.1}%
+\contentsline {subsection}{\numberline {3.4.6}Le cas d'utilisation Gestion de profil }{21}{subsection.3.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.6.1}Diagramme de cas d’utilisation Gestion de profil}{22}{subsubsection.3.4.6.1}%
+\contentsline {subsection}{\numberline {3.4.7}Le cas d'utilisation gestion de produit }{23}{subsection.3.4.7}%
+\contentsline {subsubsection}{\numberline {3.4.7.1}Diagramme de cas d’utilisation Gestion de produit et service}{24}{subsubsection.3.4.7.1}%
+\contentsline {subsection}{\numberline {3.4.8}Le cas d'utilisation donner avis }{24}{subsection.3.4.8}%
+\contentsline {subsubsection}{\numberline {3.4.8.1}Diagramme de cas d’utilisation donner avis}{25}{subsubsection.3.4.8.1}%
+\contentsline {subsection}{\numberline {3.4.9}Le cas d'utilisation gestion de catégorie et sous-catégorie }{25}{subsection.3.4.9}%
+\contentsline {subsubsection}{\numberline {3.4.9.1}Diagramme de cas d’utilisation gestion de catégorie et sous-catégorie }{26}{subsubsection.3.4.9.1}%
+\contentsline {section}{\numberline {3.5}Diagramme de séquence }{26}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Diagramme de séquence d'Authentification }{27}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Diagramme de séquence modification de mot de passe }{28}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Diagramme de séquence Ajout de produit/service }{29}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Diagramme de séquence donner avis }{30}{subsection.3.5.4}%
+\contentsline {chapter}{\numberline {4}Réalisation }{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{31}{section.4.1}%
+\contentsline {chapter}{Conclusion générale}{32}{section.4.1}%

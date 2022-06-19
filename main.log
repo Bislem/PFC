@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.25)  19 JUN 2022 22:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.25)  19 JUN 2022 22:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -541,69 +541,44 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen193
 \c@nlinenum=\count347
 \TeXr@lab=\toks63
-)
-
-e:/Documents/Prog/PFC/main.tex:168: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.168 g
-       arde-----------------------------------------
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-e:/Documents/Prog/PFC/main.tex:171: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.171 d
-       ocument----------------------------------------------
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count348
 \l__pdf_internal_box=\box62
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 172.
-LaTeX Font Info:    ... okay on input line 172.
-LaTeX Info: Redefining \degres on input line 172.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Info: Redefining \degres on input line 166.
 
 
 Package french.ldf Warning: Please load the "natbib" package
-(french.ldf)                BEFORE babel/french; reported on input line 172.
+(french.ldf)                BEFORE babel/french; reported on input line 166.
 
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 172.
+(french.ldf)             reported on input line 166.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 172.
-LaTeX Info: Redefining \up on input line 172.
+(french.ldf)             reported on input line 166.
+LaTeX Info: Redefining \up on input line 166.
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count349
@@ -623,7 +598,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 172.
+Package hyperref Info: Link coloring OFF on input line 166.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -662,77 +637,58 @@ Package hyperref Info: Link coloring OFF on input line 172.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1
+<images/logo.jpg, id=4, 265.4718pt x 113.223pt>
+File: images/logo.jpg Graphic file (type jpg)
+<use images/logo.jpg>
+Package pdftex.def Info: images/logo.jpg  used on input line 168.
+(pdftex.def)             Requested size: 113.81038pt x 56.90504pt.
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: File `Figures/logo.jpg' not found on input line 174.
-
-
-e:/Documents/Prog/PFC/main.tex:174: Package pdftex.def Error: File `Figures/logo.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.174 \maketitle
-                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 174.
-(c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 
  []
 
 
-e:/Documents/Prog/PFC/main.tex:174: LaTeX Error: There's no line here to end.
+e:/Documents/Prog/PFC/main.tex:168: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \maketitle
+l.168 \maketitle
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-e:/Documents/Prog/PFC/main.tex:174: LaTeX Error: There's no line here to end.
+e:/Documents/Prog/PFC/main.tex:168: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \maketitle
+l.168 \maketitle
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-e:/Documents/Prog/PFC/main.tex:174: LaTeX Error: There's no line here to end.
+e:/Documents/Prog/PFC/main.tex:168: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \maketitle
+l.168 \maketitle
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[1
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.174 \maketitle
-                 [1]
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/logo.jpg>]
 \openout2 = `abstract.aux'.
 
  (./abstract.tex
@@ -759,7 +715,7 @@ l.15 \end{abstract}
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 \include{Remerciements}
+l.172 \include{Remerciements}
                               [1
 
 
@@ -814,17 +770,17 @@ No file main.lot.
 \openout2 = `IntroductionGenerale.aux'.
 
  (./IntroductionGenerale.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--10
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--21
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--26
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
@@ -832,24 +788,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--26
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 \newpage
+l.10 \newpage
               [1
 
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+./IntroductionGenerale.tex:15: Extra }, or forgotten \endgroup.
+l.15 ...ralité sur le système d'information" : }
+                                                   Dans ce chapitre nous all...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
@@ -865,7 +831,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.213 \include{IntroductionGenerale}
+l.206 \include{IntroductionGenerale}
                                      [2]
 \openout2 = `chapitre1.aux'.
 
@@ -875,16 +841,16 @@ Chapitre 1.
 Package natbib Warning: Citation `ref1' on page 3 undefined on input line 14.
 
 
-Package natbib Warning: Citation `ref11' on page 3 undefined on input line 24.
+Package natbib Warning: Citation `ref11' on page 3 undefined on input line 23.
 
 
-Package natbib Warning: Citation `ref11' on page 3 undefined on input line 40.
+Package natbib Warning: Citation `ref11' on page 3 undefined on input line 35.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 
+l.36 
       [3
 
 
@@ -892,16 +858,19 @@ l.41
 
 ]
 
-Package natbib Warning: Citation `ref11' on page 4 undefined on input line 44.
+Package natbib Warning: Citation `ref11' on page 4 undefined on input line 39.
 
 
-Package natbib Warning: Citation `ref12' on page 4 undefined on input line 48.
+Package natbib Warning: Citation `ref12' on page 4 undefined on input line 43.
 
 
-Package natbib Warning: Citation `ref12' on page 4 undefined on input line 52.
+Package natbib Warning: Citation `ref12' on page 4 undefined on input line 47.
 
 
-Package natbib Warning: Citation `ref12' on page 4 undefined on input line 74.
+Package natbib Warning: Citation `ref12' on page 4 undefined on input line 53.
+
+
+Package natbib Warning: Citation `ref13' on page 4 undefined on input line 57.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -912,14 +881,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 
-Package natbib Warning: Citation `ref13' on page 5 undefined on input line 78.
+Package natbib Warning: Citation `ref13' on page 5 undefined on input line 66.
 
 
-Package natbib Warning: Citation `ref13' on page 5 undefined on input line 95.
+Package natbib Warning: Citation `ref13' on page 5 undefined on input line 76.
 
 
-Package natbib Warning: Citation `ref13' on page 5 undefined on input line 109.
+Package natbib Warning: Citation `ref14' on page 5 undefined on input line 87.
 
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 29.34344pt, for example:
@@ -928,10 +898,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-17.34344pt}.
 
 [5]
-
-Package natbib Warning: Citation `ref14' on page 6 undefined on input line 121.
-
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 29.34344pt, for example:
@@ -962,21 +928,11 @@ Package natbib Warning: Citation `ref6' on page 8 undefined on input line 49.
 
 Package natbib Warning: Citation `ref7' on page 8 undefined on input line 64.
 
-
-LaTeX Warning: File `Figures/figure arch restapi.png' not found on input line 67.
-
-
-./chapitre2.tex:67: Package pdftex.def Error: File `Figures/figure arch restapi.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.67 ...cale=0.4]{Figures/figure arch restapi.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<images/figure arch restapi.png, id=105, 1127.21124pt x 796.9775pt>
+File: images/figure arch restapi.png Graphic file (type png)
+<use images/figure arch restapi.png>
+Package pdftex.def Info: images/figure arch restapi.png  used on input line 67.
+(pdftex.def)             Requested size: 450.87651pt x 318.78534pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.84344pt, for example:
@@ -989,9 +945,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package natbib Warning: Citation `ref8' on page 9 undefined on input line 80.
 
 
-Package natbib Warning: Citation `ref9' on page 9 undefined on input line 92.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.84344pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.84344pt}.
@@ -1002,15 +955,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.102 \subsubsection
-                    {Front-end }]
+l.81 \par U
+           ne application web se compose de deux parties comme on a précis�... <./images/figure arch restapi.png>]
+
+Package natbib Warning: Citation `ref9' on page 10 undefined on input line 92.
+
 
 Package natbib Warning: Citation `ref9' on page 10 undefined on input line 107.
 
 
 Package natbib Warning: Citation `ref10' on page 10 undefined on input line 118.
 
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.84344pt, for example:
@@ -1018,7 +973,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.84344pt}.
 
-[10]
+[10])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.84344pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.84344pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.84344pt}.
+
+[11]
 \openout2 = `chapitre3.aux'.
 
  (./chapitre3.tex
@@ -1028,21 +991,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-[11
+[12
 
 
 
 
 ]
-./chapitre3.tex:32: Undefined control sequence.
-l.32 \itemLe
-             rendement et l’efficacité
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 ./chapitre3.tex:39: Undefined control sequence.
 l.39 \parUn
             processus unifié est un processus de développement logiciel co...
@@ -1053,42 +1007,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Package natbib Warning: Citation `ref2' on page 12 undefined on input line 41.
+Package natbib Warning: Citation `ref2' on page 13 undefined on input line 41.
 
 
-Package natbib Warning: Citation `ref2' on page 12 undefined on input line 46.
+Package natbib Warning: Citation `ref2' on page 13 undefined on input line 46.
 
 
-Package natbib Warning: Citation `ref2' on page 12 undefined on input line 55.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[12]
-
-LaTeX Warning: File `Figures/TypeDiagrammesUML.png' not found on input line 75.
-
-
-./chapitre3.tex:75: Package pdftex.def Error: File `Figures/TypeDiagrammesUML.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 ...height=8cm]{Figures/TypeDiagrammesUML.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Package natbib Warning: Citation `ref3' on page 13 undefined on input line 76.
-
-
-Package natbib Warning: Citation `ref4' on page 13 undefined on input line 82.
+Package natbib Warning: Citation `ref2' on page 13 undefined on input line 55.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1097,16 +1022,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13
+[13]
+<images/TypeDiagrammesUML.png, id=153, 513.92pt x 363.3575pt>
+File: images/TypeDiagrammesUML.png Graphic file (type png)
+<use images/TypeDiagrammesUML.png>
+Package pdftex.def Info: images/TypeDiagrammesUML.png  used on input line 75.
+(pdftex.def)             Requested size: 321.94417pt x 227.62204pt.
+
+
+Package natbib Warning: Citation `ref3' on page 14 undefined on input line 76.
+
+
+Package natbib Warning: Citation `ref4' on page 14 undefined on input line 82.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.83 \par
-          Dans notre cas, il existe deux utilisateurs, l’utilisateur princ...]
+          Dans notre cas, il existe deux utilisateurs, l’utilisateur princ... <./images/TypeDiagrammesUML.png>]
 
-Package natbib Warning: Citation `ref4' on page 14 undefined on input line 100.
+Package natbib Warning: Citation `ref4' on page 15 undefined on input line 100.
 
-<images/use case/use case global.png, id=161, 1213.53375pt x 1119.18124pt>
+<images/use case/use case global.png, id=162, 1213.53375pt x 1119.18124pt>
 File: images/use case/use case global.png Graphic file (type png)
 <use images/use case/use case global.png>
 Package pdftex.def Info: images/use case/use case global.png  used on input line 104.
@@ -1118,9 +1063,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14]
+[15]
 
-Package natbib Warning: Citation `ref4' on page 15 undefined on input line 116.
+Package natbib Warning: Citation `ref4' on page 16 undefined on input line 116.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1129,7 +1074,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15
+[16
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1142,7 +1087,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16
+[17
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1161,7 +1106,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17
+[18
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1185,7 +1130,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18
+[19
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1296,7 +1241,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19
+[20
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1320,7 +1265,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20
+[21
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1415,7 +1360,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21
+[22
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1434,7 +1379,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[22
+[23
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1453,7 +1398,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[23
+[24
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1468,42 +1413,11 @@ Overfull \hbox (4.41696pt too wide) in paragraph at lines 357--363
 []|[]| 
  []
 
-
-Package natbib Warning: Citation `ref5' on page 24 undefined on input line 378.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[24
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.379 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.3.8}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.379 
-       <./images/use case/rating.png>]
-<images/Diagramme de séquence/authentification (2).png, id=255, 722.2483pt x 560.99588pt>
-File: images/Diagramme de séquence/authentification (2).png Graphic file (type png)
-<use images/Diagramme de séquence/authentification (2).png>
-Package pdftex.def Info: images/Diagramme de séquence/authentification (2).png  used on input line 384.
-(pdftex.def)             Requested size: 433.35233pt x 336.60011pt.
-<images/Diagramme de séquence/Modification de mot de passe (1).png, id=256, 775.09575pt x 621.522pt>
-File: images/Diagramme de séquence/Modification de mot de passe (1).png Graphic file (type png)
-<use images/Diagramme de séquence/Modification de mot de passe (1).png>
-Package pdftex.def Info: images/Diagramme de séquence/Modification de mot de passe (1).png  used on input line 393.
-(pdftex.def)             Requested size: 465.06104pt x 372.91608pt.
-
-Overfull \hbox (4.3398pt too wide) in paragraph at lines 392--394
- [][] 
- []
-
+<images/use case/category crud.png, id=245, 1140.26pt x 599.23875pt>
+File: images/use case/category crud.png Graphic file (type png)
+<use images/use case/category crud.png>
+Package pdftex.def Info: images/use case/category crud.png  used on input line 373.
+(pdftex.def)             Requested size: 456.09592pt x 239.69125pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1512,18 +1426,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.378 \section
+              {Diagramme de séquence }
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.378 \section
+              {Diagramme de séquence } <./images/use case/rating.png>]
+
+Package natbib Warning: Citation `ref5' on page 26 undefined on input line 383.
+
+<images/Diagramme de séquence/authentification (2).png, id=255, 722.2483pt x 560.99588pt>
+File: images/Diagramme de séquence/authentification (2).png Graphic file (type png)
+<use images/Diagramme de séquence/authentification (2).png>
+Package pdftex.def Info: images/Diagramme de séquence/authentification (2).png  used on input line 389.
+(pdftex.def)             Requested size: 433.35233pt x 336.60011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.397 
-       <./images/Diagramme de séquence/authentification (2).png>]
-<images/Diagramme de séquence/Ajout de produit_service (1).png, id=265, 772.38562pt x 621.9737pt>
-File: images/Diagramme de séquence/Ajout de produit_service (1).png Graphic file (type png)
-<use images/Diagramme de séquence/Ajout de produit_service (1).png>
-Package pdftex.def Info: images/Diagramme de séquence/Ajout de produit_service (1).png  used on input line 402.
-(pdftex.def)             Requested size: 463.43494pt x 373.18709pt.
+l.393 
+       <./images/use case/category crud.png>]
+<images/Diagramme de séquence/Modification de mot de passe (1).png, id=264, 775.09575pt x 621.522pt>
+File: images/Diagramme de séquence/Modification de mot de passe (1).png Graphic file (type png)
+<use images/Diagramme de séquence/Modification de mot de passe (1).png>
+Package pdftex.def Info: images/Diagramme de séquence/Modification de mot de passe (1).png  used on input line 398.
+(pdftex.def)             Requested size: 465.06104pt x 372.91608pt.
 
-Overfull \hbox (2.7137pt too wide) in paragraph at lines 401--403
+Overfull \hbox (4.3398pt too wide) in paragraph at lines 397--399
  [][] 
  []
 
@@ -1534,19 +1474,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[26
+[27
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.406 
+l.402 
+       <./images/Diagramme de séquence/authentification (2).png>]
+<images/Diagramme de séquence/Ajout de produit_service (1).png, id=272, 772.38562pt x 621.9737pt>
+File: images/Diagramme de séquence/Ajout de produit_service (1).png Graphic file (type png)
+<use images/Diagramme de séquence/Ajout de produit_service (1).png>
+Package pdftex.def Info: images/Diagramme de séquence/Ajout de produit_service (1).png  used on input line 407.
+(pdftex.def)             Requested size: 463.43494pt x 373.18709pt.
+
+Overfull \hbox (2.7137pt too wide) in paragraph at lines 406--408
+ [][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.411 
        <./images/Diagramme de séquence/Modification de mot de passe (1).png>]
-<images/Diagramme de séquence/Donner un avis (1).png, id=273, 785.48456pt x 633.71756pt>
+<images/Diagramme de séquence/Donner un avis (1).png, id=281, 785.48456pt x 633.71756pt>
 File: images/Diagramme de séquence/Donner un avis (1).png Graphic file (type png)
 <use images/Diagramme de séquence/Donner un avis (1).png>
-Package pdftex.def Info: images/Diagramme de séquence/Donner un avis (1).png  used on input line 411.
+Package pdftex.def Info: images/Diagramme de séquence/Donner un avis (1).png  used on input line 416.
 (pdftex.def)             Requested size: 471.29437pt x 380.23347pt.
 
-Overfull \hbox (10.57314pt too wide) in paragraph at lines 410--412
+Overfull \hbox (10.57314pt too wide) in paragraph at lines 415--417
  [][] 
  []
 
@@ -1558,11 +1521,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[27
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.11}) has been already used, duplicate ignored
+[29
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.218 \include{chapitre3}
+l.211 \include{chapitre3}
                           <./images/Diagramme de séquence/Ajout de produit_service (1).png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1571,17 +1534,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[28
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.12}) has been already used, duplicate ignored
+[30
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.218 \include{chapitre3}
+l.211 \include{chapitre3}
                           <./images/Diagramme de séquence/Donner un avis (1).png>]
 \openout2 = `chapitre4.aux'.
 
  (./chapitre4.tex
 Chapitre 4.
-) [29
+) [31
 
 
 
@@ -1589,7 +1552,7 @@ Chapitre 4.
 ]
 \openout2 = `ConclusionGenrale.aux'.
 
- (./ConclusionGenrale.tex) [30
+ (./ConclusionGenrale.tex) [32
 
 
 
@@ -1610,21 +1573,21 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  43FA1F22E4455F84649C9E007316F89E;15606.
+(rerunfilecheck)             After:  907EA7CCF01F2EBAFD2A79C5743B4DF1;14680.
  ) 
 Here is how much of TeX's memory you used:
- 17043 strings out of 478300
- 273913 string characters out of 5849123
- 612832 words of memory out of 5000000
- 34689 multiletter control sequences out of 15000+600000
- 486416 words of font info for 60 fonts, out of 8000000 for 9000
+ 16941 strings out of 478300
+ 270733 string characters out of 5849123
+ 612719 words of memory out of 5000000
+ 34606 multiletter control sequences out of 15000+600000
+ 486103 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,20n,91p,362b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbl1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (40 pages, 1194635 bytes).
+ 91i,20n,91p,826b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbl1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (41 pages, 1437194 bytes).
 PDF statistics:
- 383 PDF objects out of 1000 (max. 8388607)
- 293 compressed objects within 3 object streams
- 134 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 385 PDF objects out of 1000 (max. 8388607)
+ 289 compressed objects within 3 object streams
+ 132 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
