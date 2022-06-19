@@ -56,7 +56,6 @@
 
 %\usepackage{fancyhdr} %pour les entêtes
 %\pagestyle{fancy}
-
 %*******************************************************************************************
 \usepackage{array,multirow,makecell}
 \setcellgapes{1pt}
@@ -78,26 +77,26 @@
 \makeatletter
 \def\thickhrulefill{\leavevmode \leaders \hrule height 1ex \hfill \kern \z@}
 \def\@makechapterhead#1{%
-%\vspace*{50\p@}%
-\vspace*{10\p@}%
-{\parindent \z@ \centering \reset@font
+  %\vspace*{50\p@}%
+  \vspace*{10\p@}%
+  {\parindent \z@ \centering \reset@font
 
-\thickhrulefill\quad
-%\scshape 
-\@chapapp{} \thechapter
-\quad \thickhrulefill
-\par\nobreak
-\vspace*{10\p@}%
-\interlinepenalty\@M
-\hrule
-\vspace*{10\p@}%
-\Huge \bfseries #1\par\nobreak
-\par
-\vspace*{10\p@}%
-\hrule
-%\vskip 40\p@
-\vskip 100\p@
-}}
+        \thickhrulefill\quad
+        %\scshape 
+        \@chapapp{} \thechapter
+        \quad \thickhrulefill
+        \par\nobreak
+        \vspace*{10\p@}%
+        \interlinepenalty\@M
+        \hrule
+        \vspace*{10\p@}%
+        \Huge \bfseries #1\par\nobreak
+        \par
+        \vspace*{10\p@}%
+        \hrule
+    %\vskip 40\p@
+    \vskip 100\p@
+  }}
 
 \renewcommand{\baselinestretch}{1.2}
 %-----------------Début de la Page de garde---------------------------------
@@ -109,29 +108,28 @@
 %\vspace{0.1cm}
 \\ Ministère de l'Enseignement Supérieur et de la
 Recherche Scientifique} \vspace{0.25cm}\\
-{\bf {\large Université A/Mira de Béjaïa}}\\
+ {\bf {\large Université A/Mira de Béjaïa}}\\
 {\bf Faculté des Sciences Exactes} \\ {\bf Département d'Informatique}\\
 
 %-------------------Pour insérer un logo
 \begin{figure}[h!]
-\begin{center}
-% \usepackage{graphicx}
-\includegraphics[width=4cm,height=2cm]{Figures/logo.jpg}\\
-\end{center}
+  \begin{center}
+  % \usepackage{graphicx}
+\includegraphics[width=4cm,height=2cm]{images/logo.jpg}\\
+   \end{center}
 \end{figure}
 %-------------------------------------
 \begin{center}
 \vspace*{-1cm}
-\bf{MÉMOIRE DE MASTER } \\
-
-\bf{Option : Génie Logiciel } \\
+  \bf{MÉMOIRE DE MASTER } \\
+ 
+  \bf{Option : Génie Logiciel } \\
 \end{center}
 \vspace{0.5cm}
 {\LARGE {\bf Thème}} \\
 \noindent\rule{\textwidth}{0.7mm}
-\LARGE{\textbf{ Conception et réalisation d’une plateforme de gestion du marché
-du BTP en Algérie basée sur l’architecture REST
-} }
+\LARGE{\textbf{ Conception et réalisation d’une plateforme de gestion du marché du BTP en Algérie basée sur l’architecture REST
+ } }
 \noindent\rule{\textwidth}{0.7mm}
 \end{center}
 \begin{center}
@@ -147,13 +145,11 @@ du BTP en Algérie basée sur l’architecture REST
 \vspace{0.1cm}
 \textbf{Devant le jury composé de :}  \\
 \begin{tabbing}
-\textbf{Examinateur 1}  \hspace{1.2cm}\= \textbf{M. -- --}
-\hspace{2.4cm}\=\textbf{} \\
-
-\textbf{Examinateur 2}    \> \textbf{M. --  --} \> \\ %\textbf{M.C.A}  \\
-\textbf{Encadrant}     \> \textbf{M. AKILAL Karim}  \> %\textbf{M.C.A}
-\\
-\end{tabbing}
+ \textbf{Examinateur 1}  \hspace{1.2cm}\= \textbf{M. -- --} \hspace{2.4cm}\=\textbf{} \\
+ 
+ \textbf{Examinateur 2}    \> \textbf{M. --  --} \> \\ %\textbf{M.C.A}  \\
+ \textbf{Encadrant}     \> \textbf{M. AKILAL Karim}  \> %\textbf{M.C.A}         \\
+ \end{tabbing}
 \newline
 \newline
 
@@ -164,11 +160,9 @@ du BTP en Algérie basée sur l’architecture REST
 \end{titlepage} 
 
 }
-%-----------------Fin de la Page de
-garde-----------------------------------------
+%-----------------Fin de la Page de garde-----------------------------------------
 
-%-----------------Début du
-document----------------------------------------------
+%-----------------Début du document----------------------------------------------
 \begin{document}
 %-----------------Page de garde -----------------------------------------------
 \maketitle
@@ -188,8 +182,7 @@ document----------------------------------------------
 %\lhead{}
 %--------------------------Tables des matières
 \tableofcontents
-\addtocontents{toc}{\protect\pagenumbering{roman}}  % pour la table des
-matières
+\addtocontents{toc}{\protect\pagenumbering{roman}}  % pour la table des matières
 \addcontentsline{toc}{chapter}{Table des matières}
 %--------------------------liste des figures
 
