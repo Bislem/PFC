@@ -1083,13 +1083,14 @@ INPUT c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 OUTPUT main.out
 OUTPUT main.pdf
+INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
-INPUT ./Figures/logo.jpg
-INPUT ./Figures/logo.jpg
-INPUT Figures/logo.jpg
-INPUT ./Figures/logo.jpg
-INPUT ./Figures/logo.jpg
+INPUT c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx2074.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
@@ -1106,7 +1107,6 @@ INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx0800.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx0600.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbl1200.tfm
-INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./abstract.tex
 INPUT ./abstract.tex
 INPUT ./abstract.tex
@@ -1176,16 +1176,16 @@ INPUT ./IntroductionGenerale.tex
 INPUT IntroductionGenerale.tex
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecsl1200.tfm
-INPUT ./chapitre1.tex
-INPUT ./chapitre1.tex
-INPUT ./chapitre1.tex
+INPUT ./Chapitre1.tex
+INPUT ./Chapitre1.tex
+INPUT ./Chapitre1.tex
 OUTPUT chapitre1.aux
-INPUT ./chapitre1.tex
-INPUT ./chapitre1.tex
-INPUT ./chapitre1.tex
-INPUT chapitre1.tex
-INPUT ./chapitre1.tex
-INPUT chapitre1.tex
+INPUT ./Chapitre1.tex
+INPUT ./Chapitre1.tex
+INPUT ./Chapitre1.tex
+INPUT Chapitre1.tex
+INPUT ./Chapitre1.tex
+INPUT Chapitre1.tex
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
@@ -1199,11 +1199,6 @@ INPUT ./chapitre2.tex
 INPUT chapitre2.tex
 INPUT ./chapitre2.tex
 INPUT chapitre2.tex
-INPUT ./Figures/figure arch restapi.png
-INPUT ./Figures/figure arch restapi.png
-INPUT Figures/figure arch restapi.png
-INPUT ./Figures/figure arch restapi.png
-INPUT ./Figures/figure arch restapi.png
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/eccc1200.tfm
 INPUT ./chapitre3.tex
 INPUT ./chapitre3.tex
@@ -1215,11 +1210,6 @@ INPUT ./chapitre3.tex
 INPUT chapitre3.tex
 INPUT ./chapitre3.tex
 INPUT chapitre3.tex
-INPUT ./Figures/TypeDiagrammesUML.png
-INPUT ./Figures/TypeDiagrammesUML.png
-INPUT Figures/TypeDiagrammesUML.png
-INPUT ./Figures/TypeDiagrammesUML.png
-INPUT ./Figures/TypeDiagrammesUML.png
 INPUT ./images/use case/use case global.png
 INPUT ./images/use case/use case global.png
 INPUT images/use case/use case global.png
@@ -1255,11 +1245,6 @@ INPUT ./images/use case/rating.png
 INPUT images/use case/rating.png
 INPUT ./images/use case/rating.png
 INPUT ./images/use case/rating.png
-INPUT ./images/use case/category crud.png
-INPUT ./images/use case/category crud.png
-INPUT images/use case/category crud.png
-INPUT ./images/use case/category crud.png
-INPUT ./images/use case/category crud.png
 INPUT ./images/Diagramme de séquence/authentification (2).png
 INPUT ./images/Diagramme de séquence/authentification (2).png
 INPUT images/Diagramme de séquence/authentification (2).png
@@ -1348,3 +1333,4 @@ INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
+INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb
